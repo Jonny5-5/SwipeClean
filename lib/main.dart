@@ -1,12 +1,14 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
+import 'package:swipe_clean/services/firebase_service.dart';
 import 'package:swipe_clean/utils/logger.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   initFirebaseStuff();
+  await FirebaseService.initService();
 
   runApp(const MainApp());
 }
