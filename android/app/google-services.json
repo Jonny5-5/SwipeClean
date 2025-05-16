@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869629561274",
+    "project_id": "swipeclean-bdb3f",
+    "storage_bucket": "swipeclean-bdb3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869629561274:android:5f8e4c5de6617b6546b583",
+        "android_client_info": {
+          "package_name": "com.degastonapps.swipe_clean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMWSa10PvlpS_al7elMVaKq1-i4Owzd1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
